@@ -35,8 +35,6 @@
   <a href="https://instagram.com/rafaela.n.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: rafaela.natalia1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/rafaela-natalia-3a6b23205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href= "https://github.com/rafaelanatalia" target="blank"><img src="https://img.shields.io/badge/-GitHub-664FB5?style=flat&logo=Github&logoColor=white" target="_blank"></a>
-  <a href= "https://web.whatsapp.com/send?phone=+5511910058961" alt="WhatsApp" <img src="https://img.shields.io/badge/-WhatsApp-664FB5?style=flat&logo=WhatsApp&logoColor=white" target="_blank"></a>
   <a href= "https://www.facebook.com/rafaela.damares1998" alt="Facebook"  target="blank"><img src="https://img.shields.io/badge/-Facebook-664FB5?style=flat&logo=Facebook&logoColor=white" target="_blank"></a>
   </a>
 
