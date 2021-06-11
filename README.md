@@ -16,7 +16,7 @@
  <div>
   <a href="https://github.com/rafaelanatalia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelanatalia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelanatalia&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelanatalia&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="RN-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,7 +37,7 @@
   <a href= "https://www.linkedin.com/in/rafaela-natalia-3a6b23205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href= "https://github.com/rafaelanatalia" target="blank"><img src="https://img.shields.io/badge/-GitHub-664FB5?style=flat&logo=Github&logoColor=white" target="_blank"></a>
   <a href= "https://web.whatsapp.com/send?phone=+5511910058961" alt="WhatsApp" <img src="https://img.shields.io/badge/-WhatsApp-664FB5?style=flat&logo=WhatsApp&logoColor=white" target="_blank"></a>
-  <a href= "https://www.facebook.com/rafaela.damares1998" alt="Facebook" width: "123.25" height: "28" target="blank"><img src="https://img.shields.io/badge/-Facebook-664FB5?style=flat&logo=Facebook&logoColor=white" target="_blank"></a>
+  <a href= "https://www.facebook.com/rafaela.damares1998" alt="Facebook"  target="blank"><img src="https://img.shields.io/badge/-Facebook-664FB5?style=flat&logo=Facebook&logoColor=white" target="_blank"></a>
   </a>
 
 ![Snake animation](https://github.com/rafaelanatalia/rafaelanatalia/blob/output/github-contribution-grid-snake.svg)
