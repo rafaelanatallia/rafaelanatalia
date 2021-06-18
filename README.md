@@ -41,5 +41,4 @@
 ![Snake animation](https://github.com/rafaelanatalia/rafaelanatalia/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
- ![](https://komarev.com/ghpvc/?username=rafaelanataliafra&color=Red&style=flat)
+ ![](https://komarev.com/ghpvc/?username=rafaelanatalia&color=blue&style=flat)
