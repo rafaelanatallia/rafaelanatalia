@@ -42,4 +42,4 @@
  
 </div>
  
- ![](https://komarev.com/ghpvc/?username=rafaelanataliafra&color=RED&style=flat)
+ ![](https://komarev.com/ghpvc/?username=rafaelanataliafra&color=Red&style=flat)
