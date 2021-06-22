@@ -10,7 +10,7 @@
   📚 Graduação em <b>Ciencia da Computação</b> &nbsp;
 </p>
 <p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎯 Foco em <b>Javascript</b>, <b>Html</b>, <b>CSS</b> & <b>JavaScript</b>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎯 Foco em <b>Javascript</b>, <b>Html</b>, <b>CSS</b> & <b>JavaScript</b>🎯
 </p>
 
  <div>
