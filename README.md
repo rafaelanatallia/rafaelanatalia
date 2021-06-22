@@ -15,8 +15,8 @@
 
  <div>
   <a href="https://github.com/rafaelanatalia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelanatalia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelanatalia&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelantalia&title_color=9C27B0&icon_color=9C27B0&text_color=40C4FF&bg_color=2C2F33&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelanatalia&layouttitle_color=9C27B0&icon_color=9C27B0&text_color=40C4FF&bg_color=2C2F33&show_icons=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="RN-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -40,7 +40,7 @@
 
 ![Snake animation](https://github.com/rafaelanatalia/rafaelanatalia/blob/output/github-contribution-grid-snake.svg)
  
-   ![](https://komarev.com/ghpvc/?username=rafaelanatalia&color=BD39AB&style=flat)
+   ![](https://komarev.com/ghpvc/?username=rafaelanatalia&color=9C27B0&style=flat)
 
 </div>
 
