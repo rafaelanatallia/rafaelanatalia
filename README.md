@@ -15,7 +15,7 @@
 
  <div>
   <a href="https://github.com/rafaelanatalia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelantalia&title_color=9C27B0&icon_color=9C27B0&text_color=40C4FF&bg_color=2C2F33&show_icons=true"/>
+  <img height="180em" src=https://github-readme-stats.vercel.app/api?username=anuraghazra&title_color=9C27B0&icon_color=9C27B0&text_color=40C4FF&bg_color=2C2F33&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelanatalia&layouttitle_color=9C27B0&icon_color=9C27B0&text_color=40C4FF&bg_color=2C2F33&show_icons=true"/>
 </div>
 <div style="display: inline_block"><br>
