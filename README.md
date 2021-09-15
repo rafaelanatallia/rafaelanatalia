@@ -4,16 +4,16 @@
   JavaScript | HTML | CSS |
 </p>
 <p align="center">
-  📌 Living in <b>São Paulo</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp;
+  📌 Living in <b>São Paulo</b>, <b>São Paulo</b>, <b>Brazil</b>;
 </p>
 <p align="center">
-  📚 Graduando em <b>Ciencia da Computação na Universidade Nove de Julho no Segundo Semestre</b>📚 &nbsp;
+  📚 Graduando em <b>Ciencia da Computação na Universidade Nove de Julho no Segundo Semestre</b>📚;
   </p>
-  <p align= "center">
-  📚 Cursando <b>Full Stack na Digital House</b>📚 &nbsp;
-</p>
+<p align= "center">
+  📚 Cursando <b>Full Stack na Digital House</b>📚;
+ </p>
 <p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎯 Foco em <b>Javascript</b>, <b>Html</b>, <b>CSS</b> & <b>JavaScript</b>🎯
+   🎯 Foco em <b>Javascript</b>, <b>Html</b>, <b>CSS</b> & <b>JavaScript</b>🎯
 </p>
 
  <div>
