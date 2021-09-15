@@ -7,7 +7,10 @@
   📌 Living in <b>São Paulo</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp;
 </p>
 <p align="center">
-  📚 Graduação em <b>Ciencia da Computação</b> &nbsp;
+  📚 Graduando em <b>Ciencia da Computação na Universidade Nove de Julho no Segundo Semestre</b>📚 &nbsp;
+  </p>
+  <p align= "center">
+  📚 Cursando <b>Full Stack na Digital House</b>📚 &nbsp;
 </p>
 <p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎯 Foco em <b>Javascript</b>, <b>Html</b>, <b>CSS</b> & <b>JavaScript</b>🎯
@@ -22,7 +25,7 @@
    <img align="center" alt="RN-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="RN-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="RN-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="RN-nodejs" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg>
+  <img align="center" alt="RN-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="RN-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="RN-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="RN-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
