@@ -1,4 +1,7 @@
 ## Hello! Eu sou a Rafaela Natalia
+<div style="display: inline_block"><br>
+  <img align="right" alt="Rafa-pc" <img src="https://github.com/rafaelanatalia/Img/blob/master/Group.svg" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador Rafaela">
+</div>
 
 <p align="center">
   JavaScript | HTML | CSS |
