@@ -13,7 +13,7 @@
   📚 Cursando <b>Full Stack na Digital House</b>📚
  </p>
 <p align="center">
-  🎯 Foco em  <b>Frot End </b>🎯
+  🎯 Foco em  <b>Front End </b>🎯
 </p>
   <h2></h2>
 <p align="center">
