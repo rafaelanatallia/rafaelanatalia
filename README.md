@@ -16,7 +16,7 @@
   📚 Cursando <b>Full Stack na Digital House</b>📚;
  </p>
 <p align="center">
-   🎯 Foco em <b>Javascript</b>, <b>Html</b>, <b>CSS</b> & <b>JavaScript</b>🎯
+   🎯 Foco em  <b>Html</b>, <b>CSS</b> & <b>JavaScript</b>🎯
 </p>
 
  <div>
