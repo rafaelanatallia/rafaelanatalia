@@ -10,28 +10,34 @@
   📌 Living in <b>São Paulo</b>, <b>São Paulo</b>, <b>Brazil</b>;
 </p>
 <p align="center">
-  📚 Graduando em <b>Ciencia da Computação na Universidade Nove de Julho no Segundo Semestre</b>📚;
+  📚 Graduando em <b>Ciencia da Computação na Universidade Nove de Julho no Segundo Semestre</b>📚
   </p>
 <p align= "center">
-  📚 Cursando <b>Full Stack na Digital House</b>📚;
+  📚 Cursando <b>Full Stack na Digital House</b>📚
  </p>
 <p align="center">
-   🎯 Foco em  <b>Html</b>, <b>CSS</b> & <b>JavaScript</b>🎯
+  🎯 Foco em  <b>Frot End </b>🎯
 </p>
-
- <div>
-  <a href="https://github.com/rafaelanatalia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelanatalia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelanatalia&layout=compact&langs_count=16&theme=radical"/>
-</div>
-<div style="display: inline_block"><br>
+  <h2></h2>
+<p align="center">
    <img align="center" alt="RN-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="RN-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="RN-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="RN-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="RN-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="RN-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pc" <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Rafaela">
+<p>
+
+  <h2></h2>
+  
+   <div>
+  <a href="https://github.com/rafaelanatalia" >
+<img height="180em"src="https://github-readme-stats.vercel.app/api?username=rafaelanatalia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelanatalia&layout=compact&langs_count=16&theme=radical"/>  
+</div>
+  <div style="display: inline_block"><br>
+      <img align="right" alt="Rafa-pc" <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Rafaela">
+
 </div>
   
   ##
