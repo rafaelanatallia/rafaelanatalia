@@ -1,13 +1,11 @@
 ## Hello! Eu sou a Rafaela Natalia
 
-<p align="center">
-  JavaScript | HTML | CSS |
-</p>
+
 <p align="center">
   📌 Living in <b>São Paulo</b>, <b>São Paulo</b>, <b>Brazil</b>;
 </p>
 <p align="center">
-  📚 Graduando em <b>Ciencia da Computação na Universidade Nove de Julho no Segundo Semestre</b>📚
+  📚 Graduando em <b>Ciencia da Computação na Universidade Nove de Julho no Terceiro Semestre</b>📚
   </p>
 <p align= "center">
   📚 Cursando <b>Full Stack na Digital House</b>📚
