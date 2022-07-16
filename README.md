@@ -5,6 +5,9 @@
   📌 Living in <b>São Paulo</b>, <b>São Paulo</b>, <b>Brazil</b>;
 </p>
 <p align="center">
+  🖥️💼 Trabalhando atualmente como <b>Front-End na Multscan</b>🖥️💼
+  </p>
+<p align="center">
   📚 Graduando em <b>Ciencia da Computação na Universidade Nove de Julho no Terceiro Semestre</b>📚
   </p>
 <p align= "center">
