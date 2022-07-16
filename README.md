@@ -8,7 +8,7 @@
   📚 Graduando em <b>Ciencia da Computação na Universidade Nove de Julho no Terceiro Semestre</b>📚
   </p>
 <p align= "center">
-  📚 Cursando <b>Full Stack na Digital House</b>📚
+  📚 Estudante da <b> Digital House</b>📚
  </p>
 <p align="center">
   🎯 Foco em  <b>Front End </b>🎯
